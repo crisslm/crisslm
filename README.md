@@ -19,9 +19,7 @@
   backdrop-filter: blur(12px);
   border: 1px solid rgba(255,255,255,0.1);">
 
-<div class="title" style="font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 15px;">👨‍💻 Sobre mim:</div>
+<div class="title""><h3>👨‍💻 Sobre mim:</h3></div>
 <br>
 🎓 Sistemas de Informação — EACH USP  
 ☕ Desenvolvedor Backend Java  
