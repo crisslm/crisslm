@@ -125,7 +125,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 <div class="title">🚀 Projetos em destaque</div>
 
 🔹 Sistema bancário em Java  
-🔹 Sistema de biblioteca  
+🔹 Sistema de biblioteca em Java 
 🔹 Estruturas de dados em C  
 🔹 Projetos acadêmicos USP  
 
@@ -135,7 +135,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">🌐 Contato</div>
+<div class="title">🌐 Vamos conversar? CONTATOS:</div>
 
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
