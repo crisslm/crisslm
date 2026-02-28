@@ -21,8 +21,8 @@
 
 <div class="title" style="font-size: 24px;
   font-weight: bold;
-  margin-bottom: 15px;">👨‍💻 Sobre mim</div>
-
+  margin-bottom: 15px;">👨‍💻 Sobre mim:</div>
+<br>
 🎓 Sistemas de Informação — EACH USP  
 ☕ Desenvolvedor Backend Java  
 🧠 Foco em arquitetura, estruturas de dados e sistemas  
@@ -34,8 +34,8 @@
 
 <div class="glass">
 
-<div class="title">⚡ Stack Tecnológica</div>
-
+<div class="title">⚡ Stack Tecnológica:</div>
+<br>
 <div class="badges">
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,spring,git,linux,mysql,github,vscode,idea"/>
@@ -48,8 +48,8 @@
 
 <div class="glass center">
 
-<div class="title">📊 Estatísticas GitHub</div>
-
+<div class="title">📊 Estatísticas GitHub:</div>
+<br>
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=crisslm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -62,8 +62,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">🔥 Streak de contribuições</div>
-
+<div class="title">🔥 Streak de contribuições:</div>
+<br>
 <img src="https://streak-stats.demolab.com?user=crisslm&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -72,8 +72,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">🏆 Conquistas GitHub</div>
-
+<div class="title">🏆 Conquistas GitHub:</div>
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=crisslm&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
@@ -82,8 +82,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">📈 Gráfico de atividade</div>
-
+<div class="title">📈 Gráfico de atividade:</div>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crisslm&theme=tokyo-night&hide_border=true"/>
 
 </div>
@@ -102,8 +102,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass">
 
-<div class="title">🚀 Projetos em destaque</div>
-
+<div class="title">🚀 Projetos em destaque:</div>
+<br>
 🔹 Sistema bancário em Java  
 🔹 Sistema de biblioteca em Java 
 🔹 Estruturas de dados em C  
