@@ -12,14 +12,6 @@
 
 ---
 <style>
-.glass {
-  background: rgba(255,255,255,0.05);
-  border-radius: 16px;
-  padding: 25px;
-  margin: 20px 0;
-  backdrop-filter: blur(12px);
-  border: 1px solid rgba(255,255,255,0.1);
-}
 
 .title {
   font-size: 24px;
@@ -39,9 +31,16 @@
 
 ---
 
-<div class="glass">
+<div class="glass" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
-<div class="title">👨‍💻 Sobre mim</div>
+<div class="title" style="font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;">👨‍💻 Sobre mim</div>
 
 🎓 Sistemas de Informação — EACH USP  
 ☕ Desenvolvedor Backend Java  
@@ -52,7 +51,12 @@
 
 ---
 
-<div class="glass">
+<div class="glass" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">⚡ Stack Tecnológica</div>
 
@@ -66,7 +70,12 @@
 
 ---
 
-<div class="glass center">
+<div class="glass center" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">📊 Estatísticas GitHub</div>
 
@@ -80,7 +89,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 ---
 
-<div class="glass center">
+<div class="glass center" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">🔥 Streak de contribuições</div>
 
@@ -90,7 +104,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 ---
 
-<div class="glass center">
+<div class="glass center" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">🏆 Conquistas GitHub</div>
 
@@ -100,7 +119,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 ---
 
-<div class="glass center">
+<div class="glass center" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">📈 Gráfico de atividade</div>
 
@@ -110,7 +134,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 ---
 
-<div class="glass center">
+<div class="glass center" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">🐍 Snake comendo commits</div>
 
@@ -120,7 +149,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 ---
 
-<div class="glass">
+<div class="glass" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">🚀 Projetos em destaque</div>
 
@@ -133,7 +167,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 ---
 
-<div class="glass center">
+<div class="glass center" sytle="background: rgba(255,255,255,0.05);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 20px 0;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.1);">
 
 <div class="title">🌐 Vamos conversar? CONTATOS:</div>
 
