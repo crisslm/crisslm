@@ -58,7 +58,7 @@
 
 <div class="badges">
 
-<img src="https://skillicons.dev/icons?i=java,c,py,html,css,intellij,git,linux,mysql,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,spring,git,linux,mysql,github,vscode,idea"/>
 
 </div>
 
