@@ -19,7 +19,7 @@
   backdrop-filter: blur(12px);
   border: 1px solid rgba(255,255,255,0.1);">
 
-<div class="title""><h3>👨‍💻 Sobre mim:</h3></div>
+<div class="title""><h2>👨‍💻 Sobre mim:</h2></div>
 <br>
 🎓 Sistemas de Informação — EACH USP  
 ☕ Desenvolvedor Backend Java  
