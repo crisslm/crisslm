@@ -32,7 +32,7 @@
 
 <div class="glass">
 
-<div class="title">⚡ Stack Tecnológica:</div>
+<div class="title"><h2>⚡ Stack Tecnológica:</h2></div>
 <br>
 <div class="badges">
 
@@ -46,7 +46,7 @@
 
 <div class="glass center">
 
-<div class="title">📊 Estatísticas GitHub:</div>
+<div class="title"><h2>📊 Estatísticas GitHub:</h2></div>
 <br>
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=crisslm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -60,7 +60,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">🔥 Streak de contribuições:</div>
+<div class="title"><h2>🔥 Streak de contribuições:</h2></div>
 <br>
 <img src="https://streak-stats.demolab.com?user=crisslm&theme=tokyonight&hide_border=true"/>
 
@@ -70,7 +70,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">🏆 Conquistas GitHub:</div>
+<div class="title"><h2>🏆 Conquistas GitHub:</h2></div>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=crisslm&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
@@ -80,7 +80,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">📈 Gráfico de atividade:</div>
+<div class="title"><h2>📈 Gráfico de atividade:</h2></div>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crisslm&theme=tokyo-night&hide_border=true"/>
 
@@ -100,7 +100,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass">
 
-<div class="title">🚀 Projetos em destaque:</div>
+<div class="title"><h2>🚀 Projetos em destaque:</h2></div>
 <br>
 🔹 Sistema bancário em Java  
 🔹 Sistema de biblioteca em Java 
@@ -113,7 +113,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="glass center">
 
-<div class="title">🌐 Vamos conversar? CONTATOS:</div>
+<div class="title"><h2>🌐 Vamos conversar? CONTATOS:</h2></div>
 
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
