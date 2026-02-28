@@ -115,11 +115,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisslm&layo
 
 <div class="title"><h2>🌐 Vamos conversar? CONTATOS:</h2></div>
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com/](https://www.linkedin.com/in/cristian-de-lima-meira-32081a359/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:cristian.meira15@email.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
